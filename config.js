@@ -10,12 +10,12 @@
 'use strict';
 
 // The username and password that Phantom Ozonix will use to login
-exports.username = 'Example Username';
+exports.username = 'Squeraz';
 // leave this blank if the username is unregistered
-exports.password = '';
+exports.password = 'kodiitotoso';
 
 // The server address to which Phantom Ozonix will connect
-exports.server = '';
+exports.server = 'auranation.psim.us';
 
 // The avatar that Phantom Ozonix will use
 exports.avatar = '';
